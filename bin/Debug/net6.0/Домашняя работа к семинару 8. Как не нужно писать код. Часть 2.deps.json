@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Домашняя работа к семинару 8. Как не нужно писать код. Часть 2/1.0.0": {
+        "runtime": {
+          "Домашняя работа к семинару 8. Как не нужно писать код. Часть 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Домашняя работа к семинару 8. Как не нужно писать код. Часть 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
